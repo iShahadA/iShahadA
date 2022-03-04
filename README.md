@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iShahadA
+- 👋 Hi, I’m Shahad
 - 👀 I’m interested in web Development 
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript 
 - 💞️ I’m looking to collaborate on Web applications projects 
